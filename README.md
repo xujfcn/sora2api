@@ -101,7 +101,7 @@ Always evaluate carefully before using in production.
 - 🎬 Video Generator: https://www.sora2api.cc/text-to-video
 - 🎬 Image Generator: https://www.sora2api.cc/text-to-image
 - 🎬 Music Generator: https://www.sora2api.cc/ai-music-generator
-- 🌐 API Sponsor: https://crazyrouter.com/
+- 🌐 API Sponsor: https://crazyrouter.com/?utm_source=github&utm_medium=github&utm_campaign=dev_community
 - 🌐 API Document: https://crazyrouter.apifox.cn/
 
 ---
